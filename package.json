@@ -1,0 +1,23 @@
+{
+  "name": "closure-timer",
+  "version": "1.0.0",
+  "description": "create an js application to time two functions (non)recurrsively ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node fibonacci.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winthropuniversity-besmer/closure-timer-AnthonyG-24.git"
+  },
+  "keywords": [
+    "closure",
+    "timer"
+  ],
+  "author": "Anthony Gillard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winthropuniversity-besmer/closure-timer-AnthonyG-24/issues"
+  },
+  "homepage": "https://github.com/winthropuniversity-besmer/closure-timer-AnthonyG-24#readme"
+}
